@@ -1,7 +1,7 @@
 {
   "name": "async-json-writer",
   "version": "1.0.1",
-  "description": "",
+  "description": "Writes huge JSONs to stream with minimum memory usage",
   "main": "index.js",
   "dependencies": {
     "debug": "^2.2.0",
@@ -12,6 +12,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grudzinski/async-json-writer.git"
+  },
+  "keywords": [
+    "JSON",
+    "stream"
+  ],
   "author": "Roman Grudzinski",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grudzinski/async-json-writer/issues"
+  },
+  "homepage": "https://github.com/grudzinski/async-json-writer#readme"
 }
