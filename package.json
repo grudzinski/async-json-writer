@@ -1,6 +1,6 @@
 {
   "name": "async-json-writer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Writes huge JSONs to stream with minimum memory usage",
   "main": "index.js",
   "dependencies": {
