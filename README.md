@@ -11,7 +11,7 @@ npm install async-json-writer
 ```js
 'use strict';
 
-const asyncJsonWriter = require('async-json-writer')
+const asyncJsonWriter = require('async-json-writer');
 const fs = require('fs');
 
 const hugeObject = {};
